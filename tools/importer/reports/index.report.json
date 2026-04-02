@@ -1,0 +1,13 @@
+{
+  "status": "success",
+  "url": "https://main--boilerplate--asahu534.aem.page/",
+  "path": "index",
+  "timestamp": "2026-04-02T08:33:35.956Z",
+  "title": "Home | AEM Boilerplate",
+  "template": "homepage",
+  "blocks": [
+    "hero-welcome",
+    "columns-info",
+    "cards-feature"
+  ]
+}

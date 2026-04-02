@@ -1,0 +1,31 @@
+{
+  "variantName": "hero-welcome",
+  "baseBlock": "hero",
+  "version": "1.0.0",
+  "created": "2026-04-02T08:21:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://main--boilerplate--asahu534.aem.page/",
+    "originPage": "homepage",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "minimal",
+    "purpose": "welcome-hero",
+    "imagePattern": "background-image-overlay"
+  },
+  "contentPattern": {
+    "structure": "background image + heading",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": ["welcome/landing heroes with background image", "simple hero with heading overlay", "getting started pages"],
+    "notSuitableFor": ["heroes with multiple CTAs", "heroes with image grids", "text-only heroes"]
+  },
+  "usage": {
+    "pagesUsing": ["/content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-04-02T08:21:00.000Z"
+  }
+}
