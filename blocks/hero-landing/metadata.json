@@ -1,0 +1,31 @@
+{
+  "variantName": "hero-landing",
+  "baseBlock": "hero",
+  "version": "1.0.0",
+  "created": "2026-04-02T10:53:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://wknd-trendsetters.site",
+    "originPage": "homepage",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "landing-hero",
+    "imagePattern": "grid-images"
+  },
+  "contentPattern": {
+    "structure": "heading + subheading + 2 CTAs + image grid",
+    "buttonCount": 2,
+    "imageCount": 3
+  },
+  "reuseGuidance": {
+    "suitableFor": ["landing pages with text and image grid", "homepage hero sections"],
+    "notSuitableFor": ["simple text-only heroes", "background image heroes"]
+  },
+  "usage": {
+    "pagesUsing": ["/content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-04-02T10:53:00.000Z"
+  }
+}
