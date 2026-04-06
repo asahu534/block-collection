@@ -1,3 +1,5 @@
 mountpoints:
   /:
-    url: "https://drive.google.com/drive/folders/1ltkGAICCoQ8alK84jXab-ANpoACPLwVf?usp=drive_link"
+    url: "https://author-p153710-e1614654.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-block-collection-xwalk/main"
+    type: "markup"
+    suffix: ".html"
